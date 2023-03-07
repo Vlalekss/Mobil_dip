@@ -25,9 +25,7 @@ public class TestBase {
             case "emulator":
                 Configuration.browser = EmulatorDriver.class.getName();
                 break;
-            case "em":
-            Configuration.remote = System.getProperty("remote", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
-                break;
+
         }
         Configuration.browserSize = null;
         Configuration.timeout = 15000;

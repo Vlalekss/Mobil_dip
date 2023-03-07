@@ -100,7 +100,7 @@
 
 
 <p align="center">
-  <img title="Browserstack Video" src="readme_resources/video-browserstack.gif">
+  <img title="Browserstack Video" src="readme_resources/">
 </p>
 
 
