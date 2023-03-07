@@ -51,7 +51,7 @@
 
  
 ##  Запуск тестов в Jenkins
-1. Для запуска сборки необходимо открыть  <a target="_blank" href="https://https://jenkins.autotests.cloud/job/valekseevMobile/">проект</a> . 
+1. Для запуска сборки необходимо открыть  <a target="_blank" href="https://jenkins.autotests.cloud/job/valekseevMobile/">проект</a> . 
 2. Указать значения параметров и нажать кнопку ```Собрать```.
 
 ![This is an image](/readme_resources/)
